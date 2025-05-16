@@ -3,7 +3,7 @@
 
 .. _`Pylint`: https://pylint.readthedocs.io/
 
-.. This is used inside the doc to recover the start of the introduction
+.. This is used inside the doc to recover the start of the introduction;
 
 .. image:: https://github.com/pylint-dev/pylint/actions/workflows/tests.yaml/badge.svg?branch=main
     :target: https://github.com/pylint-dev/pylint/actions
